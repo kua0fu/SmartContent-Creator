@@ -8,3 +8,6 @@ Core Features:
 2，Multi-Platform Publishing: One-click upload and task management for major short video platforms.
 3，Interaction Management: Real-time comment tracking and intelligent reply automation.
 4，Data Feedback Optimization: Continuous improvement of video content and operational strategies through automated monitoring of platform data feedback.
+
+
+I hope that interested partners can join together to make it a practical and valuable application tool. Below is the latest technical framework, along with an update on the completion status of each framework:
