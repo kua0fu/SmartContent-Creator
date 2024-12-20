@@ -4,7 +4,7 @@ The vision of “Smart Content Creator” is to provide an intelligent tool that
 
 Core Features:
 
-Intelligent Editing: AI-based automated editing and video optimization.
-Multi-Platform Publishing: One-click upload and task management for major short video platforms.
-Interaction Management: Real-time comment tracking and intelligent reply automation.
-Data Feedback Optimization: Continuous improvement of video content and operational strategies through automated monitoring of platform data feedback.
+1，Intelligent Editing: AI-based automated editing and video optimization.
+2，Multi-Platform Publishing: One-click upload and task management for major short video platforms.
+3，Interaction Management: Real-time comment tracking and intelligent reply automation.
+4，Data Feedback Optimization: Continuous improvement of video content and operational strategies through automated monitoring of platform data feedback.
